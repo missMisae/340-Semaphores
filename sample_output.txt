@@ -1,0 +1,176 @@
+	guard assessing room security for  24 millisecs...
+	guard done assessing room security
+	guard left room
+	guard walking the hallway for  41 millisecs...
+student  2 studying in room with  1 students for  50 millisecs
+student  1 studying in room with  2 students for  38 millisecs
+student  3 studying in room with  3 students for  32 millisecs
+student  4 studying in room with  4 students for  46 millisecs
+student  5 studying in room with  5 students for  29 millisecs
+student  6 studying in room with  6 students for  41 millisecs
+student  7 studying in room with  7 students for  24 millisecs
+student  8 studying in room with  8 students for  38 millisecs
+student  7 left room
+student  5 left room
+student  3 left room
+student  1 left room
+student  8 left room
+	guard waiting to enter room with  3 students...
+student  6 left room
+student  4 left room
+student  7 studying in room with  2 students for  28 millisecs
+student  2 left room
+student  3 studying in room with  2 students for  37 millisecs
+student  4 studying in room with  3 students for  42 millisecs
+student  7 left room
+student  5 studying in room with  3 students for  47 millisecs
+LAST student  1 entering room with guard waiting
+student  1 studying in room with  4 students for  25 millisecs
+	guard done waiting to enter room with  4 students
+	guard clearing out room with  4 students...
+	guard waiting for students to clear out with  4 students...
+student  3 left room
+student  4 left room
+student  1 left room
+LAST student  5 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  20 millisecs...
+student  2 studying in room with  1 students for  31 millisecs
+student  3 studying in room with  2 students for  29 millisecs
+student  8 studying in room with  3 students for  34 millisecs
+student  6 studying in room with  4 students for  21 millisecs
+	guard clearing out room with  5 students...
+	guard waiting for students to clear out with  5 students...
+student  7 studying in room with  5 students for  30 millisecs
+student  2 left room
+student  3 left room
+student  6 left room
+student  8 left room
+LAST student  7 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  24 millisecs...
+student  4 studying in room with  1 students for  46 millisecs
+student  3 studying in room with  2 students for  23 millisecs
+student  5 studying in room with  3 students for  31 millisecs
+student  1 studying in room with  4 students for  32 millisecs
+	guard clearing out room with  4 students...
+	guard waiting for students to clear out with  4 students...
+student  3 left room
+student  5 left room
+student  4 left room
+LAST student  1 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  46 millisecs...
+student  8 studying in room with  1 students for  44 millisecs
+student  2 studying in room with  2 students for  46 millisecs
+student  6 studying in room with  3 students for  45 millisecs
+student  7 studying in room with  4 students for  37 millisecs
+student  8 left room
+	guard waiting to enter room with  3 students...
+student  2 left room
+student  4 studying in room with  3 students for  26 millisecs
+LAST student  5 entering room with guard waiting
+student  5 studying in room with  4 students for  28 millisecs
+	guard done waiting to enter room with  4 students
+	guard clearing out room with  4 students...
+	guard waiting for students to clear out with  4 students...
+student  6 left room
+student  7 left room
+student  4 left room
+LAST student  5 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  21 millisecs...
+student  3 studying in room with  1 students for  22 millisecs
+student  1 studying in room with  2 students for  48 millisecs
+student  8 studying in room with  3 students for  41 millisecs
+student  2 studying in room with  4 students for  20 millisecs
+student  6 studying in room with  5 students for  34 millisecs
+student  7 studying in room with  6 students for  27 millisecs
+student  2 left room
+	guard clearing out room with  5 students...
+	guard waiting for students to clear out with  5 students...
+student  3 left room
+student  6 left room
+student  7 left room
+student  8 left room
+LAST student  1 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  45 millisecs...
+student  4 studying in room with  1 students for  38 millisecs
+student  5 studying in room with  2 students for  26 millisecs
+student  6 studying in room with  3 students for  42 millisecs
+student  2 studying in room with  4 students for  35 millisecs
+student  5 left room
+student  1 studying in room with  4 students for  50 millisecs
+student  4 left room
+	guard waiting to enter room with  3 students...
+LAST student  3 entering room with guard waiting
+student  3 studying in room with  4 students for  20 millisecs
+	guard done waiting to enter room with  4 students
+	guard clearing out room with  4 students...
+	guard waiting for students to clear out with  4 students...
+student  6 left room
+student  2 left room
+student  3 left room
+LAST student  1 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  27 millisecs...
+student  7 studying in room with  1 students for  36 millisecs
+student  5 studying in room with  2 students for  44 millisecs
+student  8 studying in room with  3 students for  44 millisecs
+student  3 studying in room with  4 students for  22 millisecs
+	guard clearing out room with  4 students...
+	guard waiting for students to clear out with  4 students...
+student  7 left room
+student  8 left room
+student  5 left room
+LAST student  3 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  35 millisecs...
+student  2 studying in room with  1 students for  24 millisecs
+student  4 studying in room with  2 students for  49 millisecs
+student  6 studying in room with  3 students for  40 millisecs
+student  1 studying in room with  4 students for  26 millisecs
+student  2 left room
+student  1 left room
+	guard waiting to enter room with  2 students...
+student  6 left room
+LAST student  4 left room with guard waiting
+	guard done waiting to enter room with  0 students
+	guard assessing room security for  49 millisecs...
+	guard done assessing room security
+	guard left room
+	guard walking the hallway for  31 millisecs...
+student  5 studying in room with  1 students for  46 millisecs
+student  7 studying in room with  2 students for  42 millisecs
+student  3 studying in room with  3 students for  37 millisecs
+student  2 studying in room with  4 students for  39 millisecs
+student  8 studying in room with  5 students for  33 millisecs
+student  4 studying in room with  6 students for  35 millisecs
+student  1 studying in room with  7 students for  27 millisecs
+student  6 studying in room with  8 students for  30 millisecs
+	guard clearing out room with  8 students...
+	guard waiting for students to clear out with  8 students...
+student  8 left room
+student  4 left room
+student  3 left room
+student  2 left room
+student  1 left room
+student  7 left room
+student  5 left room
+LAST student  6 left room with guard in it
+	guard done clearing out room
+	guard left room
+	guard walking the hallway for  34 millisecs...
+student  2 studying in room with  1 students for  39 millisecs
+student  7 studying in room with  2 students for  34 millisecs
+student  5 studying in room with  3 students for  35 millisecs
+student  3 studying in room with  4 students for  39 millisecs
+student  4 studying in room with  5 students for  36 millisecs
